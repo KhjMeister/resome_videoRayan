@@ -5,7 +5,7 @@
 # About this project
   for video conferencing
   
-  I worked at backend part with laravel and LiveWire
+  I worked at backend 
   
   The code is not displayed for security reasons
 
